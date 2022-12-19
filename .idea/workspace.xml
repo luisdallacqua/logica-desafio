@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8570558d-6638-48a5-8e0e-9cab1b8f83f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercicio03/Exercicio03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio04/Exercicio04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicio01/Exercicio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio01/Exercicio01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio02/Exercicio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio02/Exercicio02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio03/Exercicio03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio03/Exercicio03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +48,44 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exercicio04">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Exercicio01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Exercicio02">
     <configuration name="Exercicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercicio01.Exercicio01" />
       <module name="ResolucaoProblemasLogica" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Exercicio01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio02.Exercicio02" />
+      <module name="ResolucaoProblemasLogica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercicio02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio03.Exercicio03" />
+      <module name="ResolucaoProblemasLogica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercicio03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,8 +108,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercicio04" />
+        <item itemvalue="Application.Exercicio02" />
         <item itemvalue="Application.Exercicio01" />
+        <item itemvalue="Application.Exercicio03" />
+        <item itemvalue="Application.Exercicio04" />
       </list>
     </recent_temporary>
   </component>
@@ -92,7 +124,8 @@
       <option name="presentableId" value="Default" />
       <updated>1671360049457</updated>
       <workItem from="1671360050598" duration="1494000" />
-      <workItem from="1671361560251" duration="2268000" />
+      <workItem from="1671361560251" duration="9407000" />
+      <workItem from="1671438367111" duration="2657000" />
     </task>
     <servers />
   </component>
